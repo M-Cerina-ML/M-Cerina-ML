@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @M-Cerina-ML
+- 👀 I’m interested in learning and building myself up to, in some time, be an amazing developer
+- 🌱 I’m currently learning front end development with HTML, CSS and JS, after which I will be getting on to node.js and/or .NET core
+- 💞️ I’m looking employment as a junior web developer 
+- 📫 How to reach me: marko.cerina97@gmail.com
